@@ -1,1 +1,0 @@
-﻿Scaffold-DbContext "Server=localhost;Database=MyPOS;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data/Models -ContextDir Data/Context -Context MyPOSContext -Force -NoOnConfiguring
